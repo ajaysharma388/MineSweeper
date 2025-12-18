@@ -1,0 +1,3 @@
+/Users/ajaysharma388/Desktop/Mac_Pwd/MineSweeper/cmake-build-debug/CMakeFiles/MineSweeper.dir
+/Users/ajaysharma388/Desktop/Mac_Pwd/MineSweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ajaysharma388/Desktop/Mac_Pwd/MineSweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
